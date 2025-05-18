@@ -7,11 +7,6 @@ This project deploys multiple microservices to create an integrated application.
 - **Containerization:** Docker  
 - **Deployment:** IBM Cloud Code Engine  
 
-## **Features**  
-- Separate microservices for backend and frontend  
-- Docker containers for easy execution and scalability  
-- Simplified deployment on IBM Cloud Code Engine  
-- Efficient service integration for seamless communication  
 
 ---
 
@@ -24,8 +19,3 @@ Este projeto implanta múltiplos microsserviços para criar uma aplicação inte
 - **Containerização:** Docker  
 - **Implantação:** IBM Cloud Code Engine  
 
-## **Funcionalidades**  
-- Microsserviços separados para backend e frontend  
-- Containers Docker para facilitar a execução e escalabilidade  
-- Implantação simplificada na IBM Cloud Code Engine  
-- Integração eficiente entre serviços para comunicação sem falhas  
